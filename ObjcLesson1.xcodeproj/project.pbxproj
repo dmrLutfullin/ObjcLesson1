@@ -14,6 +14,7 @@
 		1920504023C20B6A00B51FBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1920503F23C20B6A00B51FBD /* Assets.xcassets */; };
 		1920504323C20B6A00B51FBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1920504123C20B6A00B51FBD /* LaunchScreen.storyboard */; };
 		1920504623C20B6A00B51FBD /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 1920504523C20B6A00B51FBD /* main.m */; };
+		1920504E23C212BB00B51FBD /* AnyClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 1920504D23C212BB00B51FBD /* AnyClass.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,8 @@
 		1920504223C20B6A00B51FBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1920504423C20B6A00B51FBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1920504523C20B6A00B51FBD /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		1920504C23C212BB00B51FBD /* AnyClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AnyClass.h; sourceTree = "<group>"; };
+		1920504D23C212BB00B51FBD /* AnyClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnyClass.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +75,8 @@
 				1920504123C20B6A00B51FBD /* LaunchScreen.storyboard */,
 				1920504423C20B6A00B51FBD /* Info.plist */,
 				1920504523C20B6A00B51FBD /* main.m */,
+				1920504C23C212BB00B51FBD /* AnyClass.h */,
+				1920504D23C212BB00B51FBD /* AnyClass.m */,
 			);
 			path = ObjcLesson1;
 			sourceTree = "<group>";
@@ -150,6 +155,7 @@
 				1920503523C20B6500B51FBD /* AppDelegate.m in Sources */,
 				1920504623C20B6A00B51FBD /* main.m in Sources */,
 				1920503823C20B6500B51FBD /* SceneDelegate.m in Sources */,
+				1920504E23C212BB00B51FBD /* AnyClass.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
